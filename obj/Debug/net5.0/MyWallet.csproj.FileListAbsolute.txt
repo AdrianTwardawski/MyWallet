@@ -431,3 +431,7 @@ C:\Users\Adrian\Desktop\dev\c#\MyWallet\bin\Debug\net5.0\runtimes\win-arm\lib\ne
 C:\Users\Adrian\Desktop\dev\c#\MyWallet\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Adrian\Desktop\dev\c#\MyWallet\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\Adrian\Desktop\dev\c#\MyWallet\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Adrian\Desktop\dev\c#\MyWallet\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Adrian\Desktop\dev\c#\MyWallet\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Adrian\Desktop\dev\c#\MyWallet\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Adrian\Desktop\dev\c#\MyWallet\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs

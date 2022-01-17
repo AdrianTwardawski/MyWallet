@@ -8,7 +8,7 @@ namespace MyWallet.Models.ViewModels
 {
     public class RegisterVM
     {
-        [Required]
+        
         public string Name { get; set; }
         [Required]
         [EmailAddress]
