@@ -64,7 +64,7 @@ namespace MyWallet.Controllers
             {
                 Name = model.Name,
                 Email = model.Email,
-                UserName = model.Email,                
+                UserName = model.Email,
             };
 
             if (ModelState.IsValid)
@@ -85,6 +85,12 @@ namespace MyWallet.Controllers
                 }
             }
             return View(model);
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Login", "Account");
         }
     }
 }
